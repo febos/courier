@@ -1,2 +1,2 @@
 # courier
-in-home cpp-project on fourier transforms
+in-home cpp-project on Fourier transforms
