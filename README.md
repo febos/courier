@@ -6,7 +6,8 @@ in-home cpp-project on Fourier transforms (to comprehend FT & to master C++)
 - 1D FFT + txt
 - 2D FFT + txt
 - 3D FFT + txt
-- GUI
+- GUI version (GTK?)
+- Web version (?)
 - 1D visualization
 - 2D visualization
 - 3D visualization
