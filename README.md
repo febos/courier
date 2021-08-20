@@ -3,9 +3,11 @@ in-home cpp-project on Fourier transforms (to comprehend FT & to master C++)
 
 ### TODO
 
-- 1D FFT + txt
-- 2D FFT + txt
-- 3D FFT + txt
+- 1D DFT + FFT
+- 2D DFT + FFT
+- 3D DFT + FFT
+- save/load txt
+- Inverse Fourier transforms
 - 1D data generation
 - 2D data generation
 - 3D data generation
