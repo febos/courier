@@ -20,7 +20,8 @@ in-home cpp-project on Fourier transforms (to comprehend FT & to master C++)
 - 2D interactive window with sliders (band-pass filter)
 - 3D interactive window with sliders (band-pass filter)
 - Projections
-- Common lines method
+- 2D reconstruction with FT interpolation
 - 3D reconstruction with FT interpolation
+- Common lines method
 - Random image & noise generation
 - CTF simulation & correction
