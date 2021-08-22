@@ -28,3 +28,4 @@ in-home cpp-project on Fourier transforms (to comprehend FT & to master C++)
 - CTF simulation & correction
 - 2D Crystallography
 - 3D Crystallography
+- DNA diffraction pattern demonstration
