@@ -12,7 +12,6 @@ in-home cpp-project on Fourier transforms (to comprehend FT & to master C++)
 - 2D data generation
 - 3D data generation
 - GUI version (GTK?)
-- Web version (?)
 - 1D visualization
 - 2D visualization
 - 3D visualization
@@ -27,3 +26,5 @@ in-home cpp-project on Fourier transforms (to comprehend FT & to master C++)
 - Common lines method
 - Random image & noise generation
 - CTF simulation & correction
+- 2D Crystallography
+- 3D Crystallography
