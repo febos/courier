@@ -29,3 +29,4 @@ in-home cpp-project on Fourier transforms (to comprehend FT & to master C++)
 - 2D Crystallography
 - 3D Crystallography
 - DNA diffraction pattern demonstration
+- Quantum Fourier transform and Shor's algorithm
