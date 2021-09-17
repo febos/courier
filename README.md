@@ -8,15 +8,16 @@ in-home cpp-project on Fourier transforms (to comprehend FT & to master C++)
 - 3D DFT + FFT
 - save/load txt
 - Inverse Fourier transforms
-- 1D data generation
-- 2D data generation
-- 3D data generation
+- 1D data generation (waves)
+- 2D data generation (waves)
+- 3D data generation (waves)
 - GUI version (GTK?)
 - 1D visualization
 - 2D visualization
 - 3D visualization
 - Convolution & cross-correlation
 - File formats (jpg, png, tiff, etc.)
+- Phase-flip between two pictures
 - 1D interactive window with sliders (band-pass filter)
 - 2D interactive window with sliders (band-pass filter)
 - 3D interactive window with sliders (band-pass filter)
