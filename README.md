@@ -1,7 +1,12 @@
 # courier
-in-home cpp-project on Fourier transforms (to comprehend FT & to master C++)
+in-home cpp-project on Fourier transforms and RNA-related algorithms (to comprehend FT & to master C++)
+
+### Implemented
+
 
 ### TODO
+
+#### FT
 
 - 1D DFT + FFT
 - 2D DFT + FFT
@@ -31,3 +36,14 @@ in-home cpp-project on Fourier transforms (to comprehend FT & to master C++)
 - 3D Crystallography
 - DNA diffraction pattern demonstration
 - Quantum Fourier transform and Shor's algorithm
+
+#### RNA
+
+- Nussinov algorithm
+- Zuker-Mathews-Turner algorithm
+- McCaskill algorithm
+- Sankoff algorithm
+- Context-free grammars for RNA secondary structure prediction
+- Hidden Markov Models
+- Global/Local Alignment
+- Tree edit & Tree alignment
