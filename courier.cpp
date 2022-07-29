@@ -33,7 +33,7 @@ int main(int argc, char **argv) {
     	
     	//auto input  = Parse1D(infile);
     	//auto result = input;
-    	//DFT1(&result, &input);
+    	//DFT1(result, input); 
     	//Print1D(outfile);
     
     }
